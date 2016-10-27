@@ -1,14 +1,14 @@
 ﻿[
-     {         
-"author" : "et-anol",         
-"name" : "Le nom de votre thème",         
-"keyWords" : "mots, clés",         
-"version" : "1.0.0",         
-"dofusVersion" : "2.37",         
-"description" : "Description de votre thème",         
-"url" : "https://github.com/Et-anol/theme/blob/master/Et-anol_Th%C3%A8me%20hallo.zip?raw=true",         
-"previewUrl" : "votre image de preview",         
-"creationDate" : "26/10/2016",         
-"modificationDate" : "27/10/2016"
+     {
+         "author" : "Et-anol",
+         "name" : "Thème hallo",
+         "keyWords" : "bleu, hallo",
+         "version" : "1.0.0",
+         "dofusVersion" : "2.37",
+         "description" : "thème bleu baser sur le jeu hallo",
+         "url" : "https://github.com/Et-anol/theme/blob/master/Et-anol_Th%C3%A8me%20hallo.zip?raw=true",
+         "previewUrl" : "votre image de preview",
+         "creationDate" : "25/10/2016",
+         "modificationDate" : "25/10/2016"
      }
  ]
